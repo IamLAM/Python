@@ -11,4 +11,4 @@ else:
 	
 	
 #no existe switch en python como en otros lenguajes como c,c++,java,JS
-#Los operadores son igual < == >= <=
+#Los operadores son igual < == >= <= y and/or
