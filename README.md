@@ -1,4 +1,4 @@
-# Aprendiendo a programación con JAVA :snake: :wink:
+# Aprendiendo programación con Python :snake: :wink:
 
 _Autor: Luis Angel Monge_
 profesor@luismonge.com.mx
