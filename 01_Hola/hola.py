@@ -1,8 +1,14 @@
 print("Trabajando con operaciones en python")
+    a = int(raw_input())
+    b = int(raw_input())
 
-m=1;
-j=5;
-i=m+j;
+    print (a+b)
+    print (a-b)
+    print (a*b)
+
+m=1
+j=5
+i=m+j
 print("Resultado "+str(i))
 
 #diccionario
