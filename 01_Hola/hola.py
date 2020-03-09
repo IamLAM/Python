@@ -5,6 +5,9 @@ print("Trabajando con operaciones en python")
     print (a+b)
     print (a-b)
     print (a*b)
+    print (a//b)
+    print (a/b)
+
 
 m=1
 j=5
